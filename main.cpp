@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Updater/Updater.h"  // Update the path as needed
 
-int main() {
+int main() { 
     const std::string currentVersion = "1.0";
 
     std::cout << "Starting application (v" << currentVersion << ")...\n";
